@@ -1,0 +1,38 @@
+pane {
+
+          background-color #e1e6f
+
+          padding-top: 10px;
+          padding-right: 20px;
+          padding-bottom: 20px;
+          padding-left: 10px;
+
+}
+
+
+
+
+removeIcon {
+
+     position: absolute;
+
+     font-size: 110%;
+
+     background-color: #DC143C
+
+     display: block;
+
+     background: transparent;
+
+}
+
+
+
+
+div.relative {
+        position: relative;
+
+        left: 30px;
+
+        border: 3px solid #73ad21
+}
